@@ -1,0 +1,15 @@
+{
+  "name": "hhaocode.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hhaocode/hhaocode.github.io.git",
+  "author": "huanghao <1570356753@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}
